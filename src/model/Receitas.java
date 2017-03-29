@@ -2,7 +2,7 @@ package model;
 
 public class Receitas {
 	
-	double ReceiValor;
+	double valor;
 
 	public Receitas(double receiValor) {
 		super();
