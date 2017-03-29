@@ -8,7 +8,5 @@ public class GestorSocio {
 	
 }
 
-new ArrayList Socio {
-	
 	
 }
